@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Mongo DB**
 
-- 🤝 I’m looking for help with [imptec_frontend] (https://github.com/CaioFiszuk/Imptec_front_end)
+- 🤝 I’m looking for help with https://github.com/CaioFiszuk/Imptec_front_end
 
 - 👨‍💻 All of my projects are available at [https://github.com/CaioFiszuk](https://github.com/CaioFiszuk)
 
