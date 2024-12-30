@@ -5,7 +5,7 @@
 <p align="center">I'm currently working in personal projects. I started studying PHP in 2021 and Javascript in 2023. I love to build new applications and see what Javascript is able to do.</p>
 
 > <h3 align="left">Connect with me:</h3>
-> <p align="left">
+
 > <a href="https://linkedin.com/in/caio lopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caio lopes" height="30" width="40" />https://www.linkedin.com/in/caio-lopes-30a913235/</a>
 </p>
 
