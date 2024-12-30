@@ -5,7 +5,7 @@
 <p align="center">I'm currently working in personal projects. I started studying PHP in 2021 and Javascript in 2023. I love to build new applications and see what Javascript is able to do.</p>
 
 > <h6 align="left">Connect with me</h6>
-<p>Find me on <a href="https://www.linkedin.com/in/caio-perez-lopes/" target="_blank">Linkedin</a></p>
+<p>Find me on <a href="https://www.linkedin.com/in/caio-perez-lopes/">Linkedin</a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
