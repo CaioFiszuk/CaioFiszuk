@@ -1,19 +1,12 @@
 <h1 align="center">Hi 👋, I'm Caio Lopes</h1>
-<h3 align="center">Front-end developer</h3>
 
-- 🔭 I’m currently working on [web_project_around](https://github.com/CaioFiszuk/web_project_around)
+<h2 align="center">Full-stack Developer with a Passion for React and Node</h2>
 
-- 🌱 I’m currently learning **Mongo DB**
+<p align="center">I'm currently working in personal projects. I started studying PHP in 2021 and Javascript in 2023. I love to build new applications and see what Javascript is able to do.</p>
 
-- 🤝 I’m looking for help with https://github.com/CaioFiszuk/Imptec_front_end
-
-- 👨‍💻 All of my projects are available at [https://github.com/CaioFiszuk](https://github.com/CaioFiszuk)
-
-- 📫 How to reach me **https://www.linkedin.com/in/caio-lopes-30a913235/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/caio lopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caio lopes" height="30" width="40" /></a>
+> <h3 align="left">Connect with me:</h3>
+> <p align="left">
+> <a href="https://linkedin.com/in/caio lopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caio lopes" height="30" width="40" />https://www.linkedin.com/in/caio-lopes-30a913235/</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
