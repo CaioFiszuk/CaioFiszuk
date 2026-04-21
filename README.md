@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Caio Lopes</h1>
 
-<h2 align="center">Full-stack Developer with a Passion for React and Node</h2>
+<h2 align="center">Full-stack Developer</h2>
 
 <p align="center">I'm currently working in personal projects. I started studying PHP in 2021 and Javascript in 2023. I love to build new applications and see what Javascript is able to do.</p>
 
